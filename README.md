@@ -1,5 +1,5 @@
 # Data Structures implementations
-**My own implementations for different Data Structures in C++.**
+**My own implementation for different Data Structures in C++.**
 
 ## Future Goals
 
