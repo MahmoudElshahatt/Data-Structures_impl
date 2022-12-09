@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp23
+namespace Stack
 {
     class Program
     {
